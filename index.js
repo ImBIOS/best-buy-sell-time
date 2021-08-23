@@ -72,3 +72,7 @@ function maxProfit(prices) {
   // return the amount of profit
   return profitTotal;
 };
+
+// This code uses Insertion Sort Algorithm to get
+// the best possible in time complexity is O(n)
+// and the worst possibility in space complexity is O(1)
